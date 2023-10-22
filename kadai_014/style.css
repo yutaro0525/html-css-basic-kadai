@@ -1,0 +1,11 @@
+body{font-family: "Arial","Meiryo",sans-serif; 
+       text-align: center;} 
+html{font-size: 20px;}
+.font{font-family: 'Josefin Sans', sans-serif; 
+       font-size: 2rem;
+       text-shadow: 1px 1px 2px gray; 
+       border-bottom: solid 3px rgb(115, 115, 114); 
+       letter-spacing: 1.2em;}
+.color{color: skyblue;}
+.color2{color: rgb(255, 192, 203);}
+#parent p{font-weight: bold;}
